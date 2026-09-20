@@ -34,7 +34,8 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 <img width="631" height="553" alt="639255059205272770" src="https://github.com/user-attachments/assets/6b16c398-cdbf-4f3b-96ee-0056c638c3e9" />
 
-<img width="631" height="553" alt="639255059205272770" src="https://github.com/user-attachments/assets/50c41c81-167a-450e-b631-d715445a3623" />
+
+<img width="576" height="694" alt="639255060081320386" src="https://github.com/user-attachments/assets/c19b7807-d4a0-4843-9086-6fe22d3ff992" />
 
 
 
